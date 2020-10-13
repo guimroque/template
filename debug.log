@@ -1,0 +1,13 @@
+[0824/225957.663:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0824/225957.695:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0824/225957.663:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0824/225957.679:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0824/225957.898:ERROR:exception_snapshot_win.cc(99)] thread ID 10572 not found in process
+[0824/225957.898:ERROR:exception_snapshot_win.cc(99)] thread ID 1804 not found in process
+[0824/225957.898:ERROR:exception_snapshot_win.cc(99)] thread ID 8292 not found in process
+[0824/225957.898:ERROR:exception_snapshot_win.cc(99)] thread ID 9992 not found in process
+[1013/115949.322:ERROR:settings.cc(430)] Settings version is not 5
+[1013/120949.690:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\53bce8d7-8546-4760-b253-cc0a19ed2c84: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/120949.736:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\81c74384-ffa3-46db-9fd0-1d825723e39f: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/120949.758:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d20520ee-9bf1-43c9-92c9-a846b35cc986: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/120949.758:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
